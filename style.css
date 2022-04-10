@@ -2,8 +2,11 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
-.navbar{
+section{
     background-color: #F0FFF0;
+}
+
+.navbar{
     padding-left: 200px;
     padding-right: 200px;
 }
@@ -19,8 +22,8 @@ body{
 
 .picture{
     padding-top: 35px;
-    padding-left: 150px;
-    padding-right: 150px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .images img{
@@ -39,12 +42,12 @@ body{
 
 .images.diff{
     border: none;
-    box-shadow: 2px 2px 10px gray;
+    box-shadow: 2px 2px 10px lightgray;
     border-radius: 10px;
     height: 250px;
     width: 250px;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 35px;
     padding-bottom: 50px;
 }
 
@@ -55,7 +58,7 @@ body{
     height: 250px;
     width: 250px;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 35px;
     padding-bottom: 50px;
 }
 
@@ -80,21 +83,10 @@ body{
     padding-bottom: 50px;
 }
 
-.last{
-    background-color: #282531;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    padding-left: 100px;
-    padding-right: 100px;
-    height: 400px;
-}
-
 .rong{
     color: white;
 }
 
 footer{
-    text-align: center;
-    color: gray;
     padding-top: 50px;
 }
